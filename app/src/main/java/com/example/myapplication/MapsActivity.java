@@ -53,6 +53,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         //COMMIT junior 2
         //COMMIT IVOR
+        //no me gasten los commit señores
 
         // Add a marker in Sydney and move the camera
         LatLng sydney = new LatLng(-34, 151);
