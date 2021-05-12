@@ -44,6 +44,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap = googleMap;
 
         // wena los cabros si esta shit la ven es pq funco
+        //commit junior
 
         // Add a marker in Sydney and move the camera
         LatLng sydney = new LatLng(-34, 151);
